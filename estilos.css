@@ -4,11 +4,12 @@ body header nav ul {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    list-style: none;
 }
 body {
     background-color: lightpink;
     font-style: normal;
-    font-family: Papyrus;
+    font-family: Papyrus, Arial, Helvetica, sans-serif;
 }
 aside {
     background-color: lightpink;
