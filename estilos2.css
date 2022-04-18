@@ -1,4 +1,4 @@
-main {
+ main {
     background-color: aquamarine;
     display: flex;
     flex-direction: column;
@@ -11,22 +11,25 @@ section {
     justify-content: center;
     align-items: flex-start;
 }
-h1 {
+section h1 {
     width: 40%;
 }
-h2 {
+section h2 {
     width: 30%;
     justify-content: center;
     align-items: flex-start;
 }
-div {
+section div {
     width: 40%;
     justify-content: center;
     align-items: flex-start;
 }
-ul {
+section ul {
     width: 30%;
     justify-content: center;
     align-items: flex-start;
 
+}
+aside {
+    background-color: azure;
 }
