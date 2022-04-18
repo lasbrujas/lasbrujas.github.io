@@ -10,11 +10,15 @@ body {
     background-color: lightpink;
     font-style: normal;
     font-family: Papyrus, Arial, Helvetica, sans-serif;
+    
+}
+article {
+    text-align: center;
 }
 aside {
     background-color: lightpink;
 }
 footer {
-    background-color: lightcoral;
+    background-color: white;
     text-align: center;
 }
