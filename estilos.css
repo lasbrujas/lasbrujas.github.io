@@ -1,4 +1,4 @@
-nav ul {
+body header nav ul {
     background-color: aquamarine;
     display: flex;
     flex-direction: row;

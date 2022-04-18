@@ -11,8 +11,13 @@ section {
     justify-content: center;
     align-items: flex-start;
 }
-section h1 {
+article h1 {
     width: 40%;
+}
+article div {
+    width: 60%;
+    justify-content: center;
+    align-items: flex-start;
 }
 section h2 {
     width: 30%;
