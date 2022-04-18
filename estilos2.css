@@ -12,10 +12,10 @@ section {
     align-items: flex-start;
 }
 article h1 {
-    width: 40%;
+    width: 30%;
 }
 article div {
-    width: 60%;
+    width: 70%;
     justify-content: center;
     align-items: flex-start;
 }
@@ -36,5 +36,5 @@ section ul {
 
 }
 aside {
-    background-color: azure;
+    background-color: lightblue;
 }
