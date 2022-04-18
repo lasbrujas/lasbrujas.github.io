@@ -1,3 +1,10 @@
+nav {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
 body {
     background-color: beige;
     font-style: normal;
