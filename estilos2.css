@@ -9,5 +9,21 @@ section {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: flex-start
+    align-items: flex-start;
+}
+h2 {
+    width: 30%;
+    justify-content: center;
+    align-items: flex-start;
+}
+div {
+    width: 40%;
+    justify-content: center;
+    align-items: flex-start;
+}
+ul {
+    width: 30%;
+    justify-content: center;
+    align-items: flex-start;
+
 }
