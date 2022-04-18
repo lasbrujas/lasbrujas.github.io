@@ -11,8 +11,9 @@ body {
     font-family: Papyrus;
 }
 aside {
-    background-color: pink;
+    background-color: lightpink;
 }
 footer {
-    background-color: bisque;
+    background-color: lightcoral;
+    text-align: center;
 }

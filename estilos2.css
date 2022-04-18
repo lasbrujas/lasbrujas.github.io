@@ -11,6 +11,12 @@ section {
     justify-content: center;
     align-items: flex-start;
 }
+article  {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
 article h1 {
     width: 30%;
 }
