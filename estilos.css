@@ -24,11 +24,18 @@ body {
 }
 article {
     text-align: center;
+    padding: 15px 150px;
 }
 aside {
     background-color: lightpink;
+    padding: 15px 80px;
 }
 footer {
     background-color: white;
     text-align: center;
+    
+}
+footer img {
+    width: 50px;
+    height: 40px;
 }
